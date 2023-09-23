@@ -25,7 +25,7 @@
       "title": "Round 2",
       "volume": "3",
       "groups": {
-        "<Terrors>": "/proxy/api/imgur/chapter/LZrutGr/"
+        "Terrors": "/proxy/api/imgur/chapter/LZrutGr/"
       },
       "last_updated": "1616368746"
     },
