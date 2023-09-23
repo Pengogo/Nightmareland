@@ -1,0 +1,13 @@
+{
+  "title": "<Nightmareland>",
+  "description": "<A surreal journey through a land of frights and delights>",
+  "chapters": {
+    "<1>": {
+      "title": "<Round 1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<01NrqnT>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
