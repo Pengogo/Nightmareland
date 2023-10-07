@@ -60,6 +60,14 @@
         "Frights": "/proxy/api/imgur/chapter/m2wgKoE/"
       },
       "last_updated": "1616368746"
+    },
+"8": {
+      "title": "Exhibitions Round 4",
+      "volume": "8",
+      "groups": {
+        "Curators": "/proxy/api/imgur/chapter/xfTKPfG/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
