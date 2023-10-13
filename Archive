@@ -68,6 +68,14 @@
         "Curators": "/proxy/api/imgur/chapter/xfTKPfG/"
       },
       "last_updated": "1616368746"
+    },
+ "9": {
+      "title": "Round 5",
+      "volume": "9",
+      "groups": {
+        "Dreads": "/proxy/api/imgur/chapter/ET3DU9j/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
